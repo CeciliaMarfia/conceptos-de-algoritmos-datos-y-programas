@@ -1,7 +1,23 @@
-# PRACTICAS-CADP-2021-1-SEM
-Contenido de las consultas prácticas de la cátedra de "Conceptos de algoritmos, datos y programas " (C.A.D.P.) de la Facultad de Informática UNLP 💻
+# Conceptos de Algoritmos, Datos y Programas (CADP)
 
-💥 IMPORTANTE: En su mayoría están revisados pero puede ser que algo me olvidé de corregir o lo haya anotado en mi carpeta y no en el código ¡por favor revisalo!
- 
- EJERCICIOS DE LA PRÁCTICA 7️⃣ NO ESTÁN SUBIDOS❗ porque los tengo en papel, al igual que los parciales que hice para practicar,  son más de 50 (desde el 2015 al 2021)
- Pedimelos sin problema y te mando foto 😊.
+Prácticas resueltas en Pascal y material de estudio de CADP (Facultad de Informática, UNLP), cursada 2021.
+
+## Estructura
+
+- `teoria/`: diapositivas de las clases teóricas.
+- `practica/`: prácticas 0 a 6 resueltas.
+- `autoevaluaciones/`: autoevaluaciones de la cursada.
+- `final/`: finales y parciales de años anteriores.
+
+## Temas
+
+- Estructuras de control y tipos de datos
+- Modularización: procedimientos, funciones y alcance de variables
+- Registros, arreglos y listas enlazadas
+- Eficiencia de algoritmos
+
+Las resoluciones de la práctica 7 y los parciales de práctica (2015-2021) están en papel y no se subieron.
+
+---
+
+Las resoluciones son propias y pueden tener errores. El material de cátedra (diapositivas, enunciados y parciales) pertenece a sus docentes y está incluido solo como referencia de estudio.
